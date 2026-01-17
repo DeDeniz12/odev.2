@@ -1,7 +1,3 @@
-// Made by @MrFearTick
-// Hood Main
-// 06/01/26
-
 package frc.robot.subsystems;
 
 import static edu.wpi.first.units.Units.Amps;
